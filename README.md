@@ -8,3 +8,5 @@
 
 
 [3. Rules of Writing in Git README.md File.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[4. Generate Kendo Treeview with local binding from server.](http://docs.telerik.com/kendo-ui/php/widgets/treeview/local-binding)
