@@ -12,3 +12,5 @@
 [4. Generate Kendo Treeview with local binding from server.](http://docs.telerik.com/kendo-ui/php/widgets/treeview/local-binding)
 
 [5. Step By Step Guide To Installing Socket.IO In Laravel.](https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51)
+
+[6. jQuery fixed table header plugin.](https://www.jqueryscript.net/plus/search.php?kwtype=0&keyword=table+head+fixer)
