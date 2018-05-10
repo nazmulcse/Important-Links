@@ -14,3 +14,5 @@
 [5. Step By Step Guide To Installing Socket.IO In Laravel.](https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51)
 
 [6. jQuery fixed table header plugin.](https://www.jqueryscript.net/plus/search.php?kwtype=0&keyword=table+head+fixer)
+
+[7. Install Oracle 11g in Ubuntu](http://blog.whitehorses.nl/2014/03/18/installing-java-oracle-11g-r2-express-edition-and-sql-developer-on-ubuntu-64-bit/)
