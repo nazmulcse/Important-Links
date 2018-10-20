@@ -16,3 +16,8 @@
 [6. jQuery fixed table header plugin.](https://www.jqueryscript.net/plus/search.php?kwtype=0&keyword=table+head+fixer)
 
 [7. Install Oracle 11g in Ubuntu](http://blog.whitehorses.nl/2014/03/18/installing-java-oracle-11g-r2-express-edition-and-sql-developer-on-ubuntu-64-bit/)
+
+
+
+# Important-Links of Java/Android
+[1. Generate Stylist Gradient Background & Button Code For Android.](http://angrytools.com/gradient/)
