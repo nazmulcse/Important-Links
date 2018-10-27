@@ -21,3 +21,5 @@
 
 # Important-Links of Java/Android
 [1. Generate Stylist Gradient Background & Button Code For Android.](http://angrytools.com/gradient/)
+
+[2. Default Keymap of Jetbrains ID (InteliJIDEA, Android Studio, PHPStorm) .](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
